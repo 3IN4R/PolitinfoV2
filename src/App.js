@@ -1,6 +1,9 @@
 import React from 'react';
-import './App.css';
+//importing libraries to create webpages on the browser
 import {Routes, Route} from 'react-router-dom';
+
+import './App.css';
+//importing components
 import Home from './pages/home';
 import Info from './pages/info';
 import Landing from './pages/landing';

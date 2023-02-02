@@ -2,7 +2,8 @@ import React from "react";
 import News from '../NewsSources.json';
 import { Component } from 'react';
 import '../App.css';
-
+//Creating a compoment that renders a table and populates it with items from JSON
+//News compoment gets iterated using keyword and index
 export class TableTest extends Component {
     render() {
         return (

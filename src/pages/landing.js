@@ -5,7 +5,7 @@ import { useNavigate } from 'react-router-dom';
 
 import Logo from '../assets/img/pngegg.png'
 import LandingBtn from '../components/landingbtn';
-
+//Function that redirects to the home page on mouse click
 export default function Landing() {
    const navigate = useNavigate();
     function handleClick(){
