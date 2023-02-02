@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/PolitinfoV2/static/css/main.bfce3639.css",
+    "main.js": "/PolitinfoV2/static/js/main.1a005d5c.js",
+    "static/js/787.bc7d429a.chunk.js": "/PolitinfoV2/static/js/787.bc7d429a.chunk.js",
+    "static/media/pngegg.png": "/PolitinfoV2/static/media/pngegg.ee1e83a66e9537bd8ce4.png",
+    "static/media/us.jpg": "/PolitinfoV2/static/media/us.9507e510b045c0410acd.jpg",
+    "static/media/ukr.jpg": "/PolitinfoV2/static/media/ukr.6f790c7d102fbbebde5e.jpg",
+    "static/media/bg.jpg": "/PolitinfoV2/static/media/bg.a164d7cc26880a884a53.jpg",
+    "index.html": "/PolitinfoV2/index.html",
+    "main.bfce3639.css.map": "/PolitinfoV2/static/css/main.bfce3639.css.map",
+    "main.1a005d5c.js.map": "/PolitinfoV2/static/js/main.1a005d5c.js.map",
+    "787.bc7d429a.chunk.js.map": "/PolitinfoV2/static/js/787.bc7d429a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bfce3639.css",
+    "static/js/main.1a005d5c.js"
+  ]
+}
