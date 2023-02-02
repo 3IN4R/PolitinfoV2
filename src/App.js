@@ -9,18 +9,17 @@ import Info from './pages/info';
 import Landing from './pages/landing';
 
  function App() {
-   
-
-    return(
-      <div className='App'>
-        <Routes>
-     <Route path='/home' element={<Home/>}/>
-     <Route path='/info' element={<Info/>}/>
-    <Route path='/' element={<Landing/>}/>
-     </Routes>
-        </div>
-      
-    )
-}
+    
+   return (
+     <div className="App">
+       <Routes>
+      <Route path='/PolitinfoV2' element={<Landing/>}/>
+       <Route path="/home" element={<Home />} />
+       <Route path="/info" element={<Info />} />
+       
+      </Routes>
+     </div>
+   );
+ }
 
 export default App;
