@@ -1,0 +1,19 @@
+{
+    "news": [
+        {
+            "name": "Politiken",
+            "country": "Denmark",
+            "factuality": "High"
+        },
+        {
+            "name": "British Broadcasting Channel (BBC)",
+            "country": "United Kingdom",
+            "factuality": "High"
+        },
+        {
+            "name": "Russia Today (RT)",
+            "country": "Russia",
+            "factuality": "Low"
+        }
+    ]
+}

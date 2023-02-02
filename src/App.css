@@ -1,0 +1,107 @@
+.App {
+  text-align: center;
+}
+
+.Title{
+  margin-top: 2rem;
+  font-size: 2.5rem;
+}
+.boximg{
+  height: auto;
+  width: 40rem;
+}
+
+
+.Dankboi{
+  font-size: 5rem;
+  color: #ffff;
+}
+
+.Gaga{
+  height: auto;
+  width: 50rem;
+}
+
+/* Navbar */
+
+.Navelem{
+  text-decoration: none;
+  font-size: 1.5rem;
+  color: rgb(255, 255, 255); ;
+  padding: 1rem;
+}
+
+.Navelem:hover {
+  color: rgb(37, 37, 170);
+}
+
+.Navi{
+  background-color: rgb(0, 0, 0);
+  padding: 1.0rem;
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-evenly;
+}
+
+
+.TopicBox{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  padding-top: 1rem;
+  padding-bottom: 2rem;
+}
+
+.Hombebox1{
+  display: flex;
+  margin-bottom: 2rem;
+  color: rgb(255, 255, 255);
+  background-color: black;
+  padding: 0.2rem;
+}
+
+.Tablecontent{
+  color: rgb(255, 255, 255);
+  font-size: 2rem;
+}
+
+table.Table{
+    background-color: rgb(0, 0, 0);
+    margin-top: 3rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+button{
+  background-color: rgb(0, 0, 0);
+  color: white;
+  font-size: 1.5rem;
+  outline: 0;
+  border-radius: 0.5rem;
+  border: none;
+  padding: 1rem;
+}
+button:hover{
+  background-color: rgb(37, 37, 170);
+}
+
+.landingheader{
+  font-size: 3.5rem;
+  color: rgb(0, 0, 0);
+}
+
+.landingpar{
+  font-size: 1.2rem;
+  text-align: center;
+  font-weight: bold;
+}
+.landingt{
+  padding: 1rem;
+  padding-top: 0.7rem;
+  margin-bottom: 1rem;
+  /*background-color: rgb(255, 255, 255);*/
+  color: rgb(0, 0, 0);
+}
+.landingst{
+ /* background-color: rgb(255, 255, 255);*/
+}

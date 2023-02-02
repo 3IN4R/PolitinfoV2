@@ -1,0 +1,29 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-image: url(assets/img/bg.jpg);
+ /* background-color: rgb(255, 255, 255); */
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin: 0;
+  overflow-x: hidden;
+}
+
+@media only screen and (max-width: 600px) {
+  body {
+    background-size: 600px 1000px;
+  }
+}
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.Gaga{
+  height: auto;
+  width: 20rem;
+}
