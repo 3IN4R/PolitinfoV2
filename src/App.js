@@ -13,7 +13,7 @@ import Landing from './pages/landing';
    return (
      <div className="App">
        <Routes>
-      <Route path="/PolitinfoV2/" element={<Landing/>}/>
+      <Route path="/Politinfo/" element={<Landing/>}/>
        <Route path="/home" element={<Home />} />
        <Route path="/info" element={<Info />} />
        
