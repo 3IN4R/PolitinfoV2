@@ -15,7 +15,7 @@ export default function Landing() {
     return(
         <div>
             <div className='landingst'>
-               <img src={Logo} className='Gaga' alt='logo'></img>
+               <img src={Logo} className='Logo' alt='logo'></img>
               <h1 className='landingheader'>Welcome to Politinfo</h1>
             </div>
             <div className='landingt' ><p className='landingpar'>Stay informed, know what the news are and who the source of the news is</p></div>
